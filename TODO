@@ -1,0 +1,5 @@
+- hasItemMatching
+- hasItemsMatching
+- containsInOrderItemsMatching
+- containsInAnyOrderItemsMatching
+- hasAllItemsMatchingInOrder
